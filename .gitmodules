@@ -1,9 +1,0 @@
-[submodule "BoostTrack"]
-	path = BoostTrack
-	url = https://github.com/vukasin-stanojevic/BoostTrack.git
-[submodule "Norfair"]
-	path = Norfair
-	url = https://github.com/tryolabs/norfair.git
-[submodule "SORT"]
-	path = SORT
-	url = https://github.com/abewley/sort.git
