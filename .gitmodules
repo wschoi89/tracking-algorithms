@@ -1,0 +1,9 @@
+[submodule "third_party/Norfair"]
+	path = third_party/Norfair
+	url = https://github.com/tryolabs/norfair.git
+[submodule "third_party/BoostTrack"]
+	path = third_party/BoostTrack
+	url = https://github.com/vukasin-stanojevic/BoostTrack.git
+[submodule "third_party/SORT"]
+	path = third_party/SORT
+	url = https://github.com/abewley/sort.git
